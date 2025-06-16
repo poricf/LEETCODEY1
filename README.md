@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/poricf/LEETCODEY1/tree/master/0945-snakes-and-ladders) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/poricf/LEETCODEY1/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/poricf/LEETCODEY1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/poricf/LEETCODEY1/tree/master/3194-find-words-containing-character) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/poricf/LEETCODEY1/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
