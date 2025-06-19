@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/poricf/LEETCODEY1/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1250-longest-common-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/1250-longest-common-subsequence) |
 | [3194-find-words-containing-character](https://github.com/poricf/LEETCODEY1/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poricf/LEETCODEY1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -72,4 +73,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poricf/LEETCODEY1/tree/master/0062-unique-paths) |
+| [1250-longest-common-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
