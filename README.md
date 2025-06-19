@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poricf/LEETCODEY1/tree/master/0062-unique-paths) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/poricf/LEETCODEY1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/poricf/LEETCODEY1/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/poricf/LEETCODEY1/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -65,5 +66,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/poricf/LEETCODEY1/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/poricf/LEETCODEY1/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/poricf/LEETCODEY1/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
