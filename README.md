@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/poricf/LEETCODEY1/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/1250-longest-common-subsequence) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/poricf/LEETCODEY1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/poricf/LEETCODEY1/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/poricf/LEETCODEY1/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poricf/LEETCODEY1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/poricf/LEETCODEY1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/poricf/LEETCODEY1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/poricf/LEETCODEY1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/poricf/LEETCODEY1/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/poricf/LEETCODEY1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Combinatorics
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/poricf/LEETCODEY1/tree/master/0062-unique-paths) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poricf/LEETCODEY1/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1250-longest-common-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/1250-longest-common-subsequence) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/poricf/LEETCODEY1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -113,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/0594-longest-harmonious-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/poricf/LEETCODEY1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
