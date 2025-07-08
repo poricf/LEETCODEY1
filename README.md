@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/poricf/LEETCODEY1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poricf/LEETCODEY1/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/poricf/LEETCODEY1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/poricf/LEETCODEY1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/poricf/LEETCODEY1/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/poricf/LEETCODEY1/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/poricf/LEETCODEY1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/poricf/LEETCODEY1/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/poricf/LEETCODEY1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/poricf/LEETCODEY1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poricf/LEETCODEY1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/poricf/LEETCODEY1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/poricf/LEETCODEY1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/poricf/LEETCODEY1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
