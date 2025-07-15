@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/1250-longest-common-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/poricf/LEETCODEY1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3194-find-words-containing-character](https://github.com/poricf/LEETCODEY1/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/poricf/LEETCODEY1/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/poricf/LEETCODEY1/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/poricf/LEETCODEY1/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poricf/LEETCODEY1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
