@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/poricf/LEETCODEY1/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/poricf/LEETCODEY1/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/poricf/LEETCODEY1/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/poricf/LEETCODEY1/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/poricf/LEETCODEY1/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/poricf/LEETCODEY1/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/poricf/LEETCODEY1/tree/master/2079-delete-duplicate-folders-in-system) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/poricf/LEETCODEY1/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/poricf/LEETCODEY1/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
