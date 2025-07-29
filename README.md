@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/poricf/LEETCODEY1/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/poricf/LEETCODEY1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/poricf/LEETCODEY1/tree/master/2479-meeting-rooms-iii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/poricf/LEETCODEY1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/poricf/LEETCODEY1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/poricf/LEETCODEY1/tree/master/3194-find-words-containing-character) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/poricf/LEETCODEY1/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/poricf/LEETCODEY1/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/poricf/LEETCODEY1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/poricf/LEETCODEY1/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/poricf/LEETCODEY1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/poricf/LEETCODEY1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/0594-longest-harmonious-subsequence) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/poricf/LEETCODEY1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/poricf/LEETCODEY1/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Memoization
 |  |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/poricf/LEETCODEY1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/poricf/LEETCODEY1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/poricf/LEETCODEY1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
