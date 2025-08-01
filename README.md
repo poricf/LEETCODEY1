@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/poricf/LEETCODEY1/tree/master/0118-pascals-triangle) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poricf/LEETCODEY1/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0594-longest-harmonious-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/poricf/LEETCODEY1/tree/master/0945-snakes-and-ladders) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/poricf/LEETCODEY1/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/poricf/LEETCODEY1/tree/master/0118-pascals-triangle) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poricf/LEETCODEY1/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1250-longest-common-subsequence](https://github.com/poricf/LEETCODEY1/tree/master/1250-longest-common-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/poricf/LEETCODEY1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
