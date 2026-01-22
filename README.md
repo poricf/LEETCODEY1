@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/poricf/LEETCODEY1/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/poricf/LEETCODEY1/tree/master/3453-separate-squares-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/poricf/LEETCODEY1/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/poricf/LEETCODEY1/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/poricf/LEETCODEY1/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/poricf/LEETCODEY1/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/poricf/LEETCODEY1/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/poricf/LEETCODEY1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/poricf/LEETCODEY1/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/poricf/LEETCODEY1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/poricf/LEETCODEY1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/poricf/LEETCODEY1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/poricf/LEETCODEY1/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/poricf/LEETCODEY1/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/poricf/LEETCODEY1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -188,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poricf/LEETCODEY1/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -205,4 +210,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/poricf/LEETCODEY1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/poricf/LEETCODEY1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
