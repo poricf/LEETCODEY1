@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/poricf/LEETCODEY1/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/poricf/LEETCODEY1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/poricf/LEETCODEY1/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/poricf/LEETCODEY1/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/poricf/LEETCODEY1/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/poricf/LEETCODEY1/tree/master/3453-separate-squares-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/poricf/LEETCODEY1/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/poricf/LEETCODEY1/tree/master/0945-snakes-and-ladders) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/poricf/LEETCODEY1/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Union Find
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/poricf/LEETCODEY1/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3618-find-the-original-typed-string-ii](https://github.com/poricf/LEETCODEY1/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/poricf/LEETCODEY1/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
